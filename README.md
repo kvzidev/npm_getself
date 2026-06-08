@@ -99,7 +99,7 @@ This project is licensed under the MIT license.
 
 ## Contact
 
-For any questions or inquiries, please contact [me](https://github.com/kizzandev).
+For any questions or inquiries, please contact [me](https://github.com/kvzidev).
 
 ---
 
