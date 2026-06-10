@@ -103,4 +103,4 @@ For any questions or inquiries, please contact [me](https://github.com/kvzidev).
 
 ---
 
-Made with ❤️ by [kizzandev](https://github.com/kizzandev)
+Made with ❤️ by [kvzidev](https://github.com/kvzidev)
